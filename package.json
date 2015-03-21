@@ -1,0 +1,12 @@
+{
+  "name": "pr-spec-test",
+  "version": "0.0.0",
+  "description": "Common test component used to validate each sub component that makes up pr-spec-*",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Brian Mullan <bmullan91@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tv4": "~1.1.5"
+  }
+}

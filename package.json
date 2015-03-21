@@ -6,6 +6,10 @@
   "scripts": {},
   "author": "Brian Mullan <bmullan91@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pragmatic-rest/spec-test.git"
+  },
   "dependencies": {
     "tv4": "~1.1.5"
   }

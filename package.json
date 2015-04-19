@@ -1,6 +1,6 @@
 {
   "name": "pr-spec-test",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Common test component used to validate each sub component that makes up pr-spec-*",
   "main": "index.js",
   "scripts": {},
